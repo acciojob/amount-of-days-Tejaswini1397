@@ -1,5 +1,5 @@
 function daysOfAYear(year) {
-    const userInput = prompt('Enter a year (between 1 and 9999):');
+    const userInput = prompt();
   const year1 = parseInt(userInput);
 
  // Check if the year is a leap year
